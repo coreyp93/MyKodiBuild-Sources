@@ -1,4 +1,4 @@
-# [<B>MyKodiBuild - Sources</B>](https://coreyp93.github.io/MyKodiBuild/)
+# [<B>MyKodiBuild - Sources</B>](https://coreyp93.github.io/MyKodiBuild-Sources/)
 
 **`Go to the Kodi "file manager"> Click on "Add source">`** 
 
